@@ -1,6 +1,6 @@
 {
   "name": "svelte-v4-i18n",
-  "version": "3.7.2",
+  "version": "3.7.3",
   "main": "dist/runtime.cjs.js",
   "module": "dist/runtime.esm.js",
   "types": "dist/runtime.d.ts",
