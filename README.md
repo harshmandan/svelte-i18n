@@ -1,6 +1,6 @@
-> :information_source: `svelte-v4-i18n` is just a dependecies-upgraded version of the original [`svelte-i18n`](https://github.com/kaisermann/svelte-i18n) package to support svelte >= `4.0.0`.
+> :information_source: `svelte-v4-i18n` is just a dependecies-upgraded version of the original [`svelte-i18n`](https://npmjs.com/svelte-i18n) package to support svelte >= `4.0.0`.
 
-[![npm version](https://badge.fury.io/js/svelte-i18n.svg)](https://badge.fury.io/js/svelte-i18n) ![](https://github.com/kaisermann/svelte-i18n/workflows/CI/badge.svg)
+[![npm version](https://badge.fury.io/js/svelte-v4-i18n.svg)](https://badge.fury.io/js/svelte-v4-i18n) ![](https://github.com/harshmandan/svelte-v4-i18n/workflows/CI/badge.svg)
 
 # svelte-i18n
 
