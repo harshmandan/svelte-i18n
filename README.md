@@ -10,7 +10,8 @@
 
 **Usage**
 
-- **IMPORTANT:** The import has been changed from the original package from `svelte-i18n` to `svelte-v4-i18n`
+- **IMPORTANT:** The import has been changed from the original package:
+  Change from `svelte-i18n` to `svelte-v4-i18n`
 
 ```svelte
 <script>
